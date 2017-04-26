@@ -1,0 +1,13 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+  "workbench.iconTheme": "vscode-icons",
+  "editor.tabSize": 2,
+  "editor.formatOnSave": true,
+  "prettier.singleQuote": true,
+  "prettier.printWidth": 100,
+  "prettier.trailingComma": "all",
+  "prettier.bracketSpacing": true,
+  "window.zoomLevel": 0,
+  "window.menuBarVisibility": "default",
+  "files.eol": "\n"
+}
