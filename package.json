@@ -1,0 +1,8 @@
+{
+  "name": "nodejs_initial_project",
+  "version": "1.0.0",
+  "description": "Nodejs prj template",
+  "main": "index.js",
+  "author": "Alexey Ivanov <alivanov@gsdeluxe.com>",
+  "license": "MIT"
+}
