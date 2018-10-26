@@ -6,7 +6,7 @@
   "author": "Alexey Ivanov <alivanov@gsdeluxe.com>",
   "license": "MIT",
   "scripts": {
-    "start": "rimraf ./dist && babel -d ./dist ./src -s && cross-env NODE_ENV=production node dist/main.js",
+    "start": "rimraf ./dist && babel -d ./dist ./src -s && cross-env NODE_ENV=production PORT=3034 node dist/main.js",
     "dev": "cross-env NODE_ENV=development node dev.js",
     "lint:js": "eslint ./src",
     "lint-staged": "lint-staged"
