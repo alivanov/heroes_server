@@ -11,10 +11,12 @@ $ yarn -v
 ```
 
 # startup
-
 ```
 $ yarn
 $ yarn run dev => dev mode
 or
 $ yarn start => prod mode
 ```
+
+# config
+configure the server params [here](https://github.com/alivanov/heroes_server/blob/master/src/config.js)
